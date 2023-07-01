@@ -1,2 +1,2 @@
 source ../test-env.sh
-../build/opt/zsim ./host.cfg cmd.cfg ./output
+../build/opt/zsim ./host.cfg ./cmd.cfg ./output
